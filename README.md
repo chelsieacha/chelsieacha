@@ -1,13 +1,10 @@
 # About me
+Hey I'm Chelsie Belleh
+You can find me here learning because I always want to be better
 
-**chelsieacha/chelsieacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Github and Git
+- 🔭 I’m currently working on ...Git, ci/cd pipelines, docker, kubernetes and terraform projects
 - 👯 I’m looking to collaborate on any projects to further my devops career
 - 🤔 I’m looking for help with ... we will see
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...I'm suprisingly tall
+- 💬 Ask me about ...stuff concerning devpops. we can learn from each other
+- 😄 Pronouns: ... Mrs
+- ⚡ Fun fact: ...Guess
